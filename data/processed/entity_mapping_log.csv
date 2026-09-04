@@ -1,0 +1,2001 @@
+﻿entity_type,canonical_name,match_score,status,source_url
+startup,Pushary,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Intrascope.app,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ProblemHunt,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MindPal,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Poke.com,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TwelveLabs,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ovren,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Github Copilot,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,KAYAK,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CoSupport AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Inrō,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flexprice,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pilot,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Amarsia,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Brew,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agentmemory,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Free AI Video Editor OpenCutAI,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Grok AI assistant,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Querri,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Manna,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NudgeFile,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Okibi,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Meku,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Leni,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chronicle,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ResumeUp.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Glam AI,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TypingMind - Chat UI for LLMs,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ExploreYC,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Slashit App,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Noodle Seed,0.5833,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Unabyss,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Descript,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Documentation.AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Layercode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Littlebird,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,rolyai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clueso,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Extella AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Figma,1.0,matched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gitmore,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Oxlo.ai,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Buddy AI Note,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,1x,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Command AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Invoke,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Branda,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Daily.co,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Den,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Wobo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClawTick,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dia Browser,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Simplora,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tamadoggo,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Athena,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Naoma AI Demo Agent,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OpenClaw,0.7143,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Polyvia,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Radiq,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flare,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Jentic Mini,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mindly,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SigmaMind AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clawdi,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pixero AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,QA.tech,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tooling Studio,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dropstone,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hex,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lumo Studios,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,rabbit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Secret Sauce 3D,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sora by OpenAI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Databox,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Draft,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Memoket Gem,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Stripe,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kimi AI - Now with K2.6,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kipps AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Marx Finance,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Portt,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PromptPerf,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SuperPowers AI,0.5217,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cal.com,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dodo Payments,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Invoko,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Limitless,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SureThing.io,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aqua Voice,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClawSecure,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lingo.dev,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AIxBlock,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Causo,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Creatium,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dimension,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Neon,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Octomind,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pretty Prompt,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tinkerer Club,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ApertureDB,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CreateOS,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Foyer,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Inspector,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Integral,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Jootle,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Springfield Oracle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Augment Code,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Draftwise Playbook Studio,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Markopolo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SimCam,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tana,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Y Bombinator,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aiarty Video Enhancer,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DubStream by CAMB.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Enjo Help Center,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Finden,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flowstep,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Groq Chat,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Jesse,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LangChain,1.0,matched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Needle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,R0Y,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Toyo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,zero.xyz,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BlogBowl,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClawOffice,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gemini Export Studio,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Middleware,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mozart AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AEVS,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ancher,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Carousels Generator,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CourseCorrect,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FollowUp by AssetMule,0.32,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ghost,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Haimeta,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mnexium AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Qudemo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Telescope,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tessl,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Trace,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,YouArt,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Amplitude,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AudioJot,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Badge,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Boost.space,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Buildrs,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Friend,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Giselle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kanbanq,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MCPCore,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Optibot,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Plurai,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Polyglotta,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Snippets AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Text2Note,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Wowable,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Airtop,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Coursekit,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Devaito,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FunBlocks AI Markdown Editor,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Goldfish,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Juno,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mastra,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,prjct/cli,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Apple,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ASI:One,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bolto,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Claro - Research Agents,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clico,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Coworker AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DeepTagger,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dog-e-dex,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Growati,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OpenBox,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pally - AI Relationship Management,0.3243,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Vokal,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Asteroid,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crisp,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DecisionBox,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Joanium,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lovon AI therapy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MemeMorph,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MGX (Now Atoms),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mocko,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MorphMind: A Steerable AI Platform,0.4737,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Nily AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Onyx,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Receiptor AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sparks AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Spine,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Upstream,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Acti,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgentDiscuss,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Asklet,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Basalt,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Calk AI,0.7692,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Expo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flixier,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flowtica Scribe,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fred,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Frontdesk AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GitArsenal,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PixelDance & Seaweed,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Side Space,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SNEWPapers,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Superapp,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,sync-3,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Uplodio,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ZooClaw,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aident AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Alpie Core,0.7059,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Antispace 2.0,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BrandingStudio.ai,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clarity,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Co-Desk,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,detectly,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DocsOrb: AI Policy Management & more,0.3684,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Equip AI Interview,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,First Answer,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LM Studio,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,maia.is your AI that gets things done,0.35,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MCP360,0.2667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pendium,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Slicker,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SlimSnap,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Stride,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Synthetiq,0.7778,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI App Generator,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ansvisor,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Async,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Blimp,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Buffer API,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeBanana,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeHealth MCP Server by CodeScene,0.3684,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ConnectMachine,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crono,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Drift,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FireCut AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FuseAI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gigacatalyst,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Glaze by Raycast,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Google Antigravity,0.5185,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Grok.com (Beta),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HeyNews,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kodo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lemni,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lindy,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Loki.Build,0.3158,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Omma,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PicWish,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rewrait,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TruGen AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgentReady,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Airtrain.ai LLM Playground,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Audino AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatGPT Operator,0.5385,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Collective OS,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cora,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Deploy Hermes,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DocumentLens,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Draw A Fish,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gumloop,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lucent Chat,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MoDev,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NeoAgent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,panda{·}etl (YC W24),0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PangeAI,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Personal Assistant by HyperWrite,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rankfender,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Reducto Studio,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Shram,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Studio – Your AI Media Copilot,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,agentcad,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agentplace,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bench for Claude Code,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chikka.ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cove,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dex by Thirdlayer,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dhisana AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,dr.aft,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DunSocial,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Enshittifier,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mukh.1,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,n8nChat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pentest Copilot by BugBase,0.4118,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Polarity,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,QApilot,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Scribe,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Snaply,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tencent EdgeOne,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Adject,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Atyla,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BAND,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Brand Stori,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Buda,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chatoshi AI Copilot,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Claude Code auto-fix,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clientell AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CoPilot.Live,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CrewAI AMP - Agent Management Platform,0.2927,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CRUDERRA,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Designer Clone AI,0.6087,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fieldy,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fire Your QA Today,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlexClip,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Folio,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GradPipe,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LifeOS,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NoteGPT,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Onboarding0,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OpenAdapter,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Orchestria,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pixel,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PromptChainer,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Recap,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Revv Invest,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ScreenGeany AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Silvia,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SparrowDesk,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SuperIntern: Botless Live Meeting Agent,0.3256,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,The ∞ Bar,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agenta,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Tools Directory - by Whalesync,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AnimeShorts,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AnythingLLM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Askiva AI,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Astrio,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Attrove AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BoldDesk,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Botme.io,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Citable,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Coddo,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeWords,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Create,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Doraverse,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dreamina,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Elvin,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Figy.ai,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gabriel AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,git-lrc,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Glasp AI Clone: Learning Memory,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GoClaw,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HeyTraders,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,iMemo,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Inferless,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kalycs,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lebesgue: AI CMO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Loomal,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Miora,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NTRVSTA,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Omnara,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Papermark,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PingPrompt,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Promptius AI,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Protoclone,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,QuickCompare by Trismik,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Replicas,0.8235,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sellible,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Skybridge,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SOLAYA,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sup AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TapScanner,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Text2Query,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Therapist AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Toone,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Trivia by Typito AI,0.5185,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Veltrix AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,WhatsDiff,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Atech,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Baton,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BeHooked,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BlogSEO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bolna,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BUNDL AI Prompts & Workflows Directory,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CalPal,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cartesia Sonic,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatRealtor,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clema,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cloudy,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CoAgentor,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ColorPenguin,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CuriosityXR,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,discli,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Donna AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Doodles Ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Effects SDK,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FLORA,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flow AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Flowly,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Freu AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Genpire,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Happenstance,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hopper,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ittybit,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Janus,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Katalyst,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Layrr,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lemon Slice,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Libertify.com,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LIVE: wtf are agents buying?,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ManyPI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Maximem Vity for OpenClaw,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Murror,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MyClone,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Notchup,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NovaVoice,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Nugget AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,@O - AI coworker in Slack,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Olovka,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PolitePost.net,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ProfileSpider,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Scribble Network,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Seekeasy MCP,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Subterranean,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TimedSubs,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Zaro,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Zo Computer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Zoo Design Studio v1.0,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ada.im,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agen,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aider,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Reverse Image Search,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Alkemi,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,All Voice Lab,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Avo - AI Voice Alarm,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,B2Metric,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BrowserBook,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BuildKit 2.0,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bytebot,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chinilla,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ciaro Pro,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cleo,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeYam CLI & Memory,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Context Mode Insight,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CrabTalk,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cranston AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DCP,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DronaHQ,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Exponent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FastMCP 3.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FeatDrop,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fluent,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fonic,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Genbler,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hannah & Co,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HeyGen x Hubspot Integration,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HireHunch,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hot100.ai,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hyta,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kaily,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Magine,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MakersClaw,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MentionDrop,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MiniMax,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Naptick AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NeuroBlock,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Normain,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Notion Site,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ollie,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pastey Extension,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PingPolls,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pioneer,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PlugThis,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Quash,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,QuickAgent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RADiCAL,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RealRoots,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rectify,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Scrapeless,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SDRx,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Second Brain,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,sleek.design,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SourcePilot,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Templify,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TestRelic AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Thunai,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Thunderbit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Toolstash,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TrendWidget,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Visdiff,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Yolk,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,10X PPC,0.2857,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Accorata,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agent Arena,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agentation,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agent FM for Claude Code & Codex,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Andsend,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,aperture,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AppWizzy,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Arcitext.com,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Astra,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Atlantix,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AutoForm,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Autonoma.pro,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Axol,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bing Video Creator,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Blooper,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CapWords,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cascadeur,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CatchAll by NewsCatcher,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Church Loom,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cignara,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Claude Code Scheduled Tasks,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clawther,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeMote,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cols.ai,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Commerce Pro by CapCut,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Compendium,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Context Link,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crumb - Fridge and Pantry Recipes,0.303,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dify.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DIKTATORIAL Suite,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dirac,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,display.dev,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DreamFlow,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DreamRP,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,eapy,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Edgee,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ezine,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlowLens,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Forsy,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fullpack,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gaia,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gazel,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gemini 3.1 Flash-Lite,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Genie AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GetMax,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GHOSTYPE,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Graphis,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HanaVerse,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,"Harmonian AI | Your Mind, All in One.",0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HostedClaws,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HumanLayer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Juice,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kaomoji Drawer,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lium AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lovaround,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MarketRecon,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MarsCode,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Missio,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ModuleX,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Nashra,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NeuralAgent,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NeuraVid,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Notebook AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Polsia,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PRDKit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pulze,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rainfrog,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rask AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ReachLLM,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Reindeer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ripplica,0.7059,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Rowboat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SaaS Library —Empower Your Journey,0.4103,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Samepage Signals,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ScaryStories Live,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Secret Scan-ta,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Segmind,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sheet0,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Socrati,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sound Effects AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,The Drive AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tyto by ai-coustics,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,v0 by Vercel,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,wrapped.dev,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,16x Prompt,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Adapt,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AdGen AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agent Bar,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgentBrush,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgentQL,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agents Base,0.6087,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Airbyte Agents,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aiswers.com,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AIThumbnail.so,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Visual Reasoning by Chance,0.4118,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Amsflow,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,App Mint AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Architect by Lyzr,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Artefact,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Atwork,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AutoRepurpose,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Avatars by Studio Neiro AI,0.4242,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Backgrind,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Basedash: AI data analyst,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BeFreed,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bith.AI [Ghost],0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Brila,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatGPT Images 2.0,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chat With Your Database,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Claude Code Voice Mode,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,claw.fm,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeRide (Beta),0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Concipe,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Confident AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Container Diet,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ContentPie,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Coval,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crew44,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Deforge,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Depth,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dokko,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,doXmind,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dream Machine AI Online,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,drippi,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ekamoira GSC MCP,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Entre,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Everlyn AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Everywhere,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,exa.ai,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Exifa.net,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FCZP:Fully customised zenerative podcast,0.3043,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Feedback Wizard AI,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Findaway Voices by Spotify,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlightGlitch,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlutterAIDev,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Frame,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Free Access To 9000+ AI Tools Database,0.3415,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Friendware,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FullContext,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GaliChat,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GamerForge,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gas City 1.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Generatech AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Geniai Assist,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GladeKit,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,gptengineer.app,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Granite,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Grindery Web3 Gateway for Zapier,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hapax,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Henji,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Heuris,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HoloTutor by VictoryXR,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HTML Pub,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,illumi,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,InstaVM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Internet.io,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,IP Portal,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Juno,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kite,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kyutai TTS,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lets Finally Meet!,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Lightscreen AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LLMTest,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LongCat,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Looria,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Luzo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MailAdept by mailwarm,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Meet Warren,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Meto,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Metoro,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mindstone Rebel,0.5217,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mira,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MODIF - AI Contents Platform,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Monica,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MusicLM by Google,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,myndless.ai,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Neurcode AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NewsBang,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Noteweave,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Notion 3.4,0.8571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ocean,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OCR Arena,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OpenAI in HubSpot CRM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,OptimizeGEO.ai,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Packmind Open Source,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pangea,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pi Coding Agent,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Platus (YC F24),0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PMB,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Powder,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Praise Jar,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Preloop,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Prometora,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PromptOT,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Propane,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Property Alpha,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,remio - Your Personal ChatGPT,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RockPic,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RunInfra,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Say It So - Better Feedback For GDocs,0.359,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,SciMaster,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Scoutflo,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sider: AI Research Agent & Extension,0.359,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Siit,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Stammer.ai,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Supavoice,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Superjoin,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Text2Infographic,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,The 2025 state of AI Development,0.3415,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,The Influencer AI,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Thinglo,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tolan,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,TryCase,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,uLuup,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Unwrapped,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Virtuall.PRO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,VisualGPT,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,VTT for Mac,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Watchman AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Yescribe.ai,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aden,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AGIRAILS,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AIClipGen,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,aiCode.fail,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Eraser - Redact data from CHATGPT,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Patient Intake,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Renamer,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Santa Claus,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Shorts Pro,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Skills Manager,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Test Engineer by BlinqIO,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Thing,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ALTAR,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Amigo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Animanic,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Anvil,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AppForceStudio,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Appoval,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ArTok,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AskYourPdf,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AudienceCue,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Auriko,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Auvylo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ava 2.0,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bagel,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Balance,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BashBuddy,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BayesLab,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bito,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bleep That Sh*t!,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bluerails Discovery,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BobCA,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bouquin & Ink,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Buildpad,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Candlestick AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cardamom,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chapple,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clarisign,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClawMetry,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clide,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CoChat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Codebuff,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Coderrr,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Colloqio,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Colossal,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Constellation Gate AI,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Convo,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cooked.wiki,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Copy.ai,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CosmicUp,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CronBox,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CtrlOps,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cypher Scribe,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DataGrout,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DeepLiveCam,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Design Agent by Lokuma,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dictura,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dippy Widget - AI Character Chat,0.5405,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dirac,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Docfarm,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Drafted,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dual Shades,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dump Memory,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EchoFlow,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Emploio,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Espa,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fenn,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Final Round AI,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fliki AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Foretoken AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fume,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gemini Sidepanel,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Generated Assets,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gepchat,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GhostSnap,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GitHits beta 0.9,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GitSummarize,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Glue,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GradeWiz,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Grapevine,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Handoff AI,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hermit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hero,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hiperyon,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HirePilot,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HuHu AI,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hunyuan-GameCraft,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HyperDash,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hyperterse,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Imagine,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Indigo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Infrabase,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,JustPaid,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Kazu Navi (かずナビ),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Khorus,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LIAM,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LikeTony.ai,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LLM Stats,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,LogoFast,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Loopin,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Makko AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MCP Playground,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Memno,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MeshPilot,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,MindReader v1,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mindspase,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,moar,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Mochii,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Morning Commute,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,n8nCoder,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Nansen AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Nektar,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NervePay,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NexaSDK for Mobile,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NexTalk,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,NextPhone,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,nKS - nOps Karpenter Solution,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ocode.dev,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Odin AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Openkoda,0.7143,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PaddleBoat,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PaneFlow,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Parseflow.io,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Paybond,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pebbles Ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PerformaMeter,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Phonely,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Phygital+,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,PicLooks Avatars,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pipali,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Poised Cupid Edition,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Primer,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pygma,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Pylar,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Quartz,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RecordMeeting,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Relay,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ReplyMind,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RetroTerminal,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Reviewradar,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,RevoClaw,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Roast My Chat,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sakura,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Saturn,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Seer Platform,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Shepherd,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Sipcode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Skarbe,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Skillkit,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Slashspace AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Socra,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Starchild-1 by Odyssey,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Stetos.co,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Surmount AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Synapis,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Talk To Your Computer,0.4138,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Textio,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Tila AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Timbal AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,touch grass,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ubie AI Symptom Checker,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,UI Bakery,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,UIQuill,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,V2Fun,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,VisibAI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Vocao.ai — AI language tutor,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,YourMemory,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,1000+ Viral AI Art Examples,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,1Code,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,21st Fund,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,2dto3D,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,3D Viewer for Google Drive,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,A2A Protocol,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Advent of No-Code,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agent Card,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgenticQA,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agentipedia,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AgentOS,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Agentset,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,agumbe.dev,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Bulk Analysis,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Color Match,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI image extender,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Jingle Maker,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AI Lawyer,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Airbrush Studio,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AIRI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AIRS ML,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Airweave,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AISA AI Skills Test,0.32,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,alphaAI Capital,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Andi,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Antimetal,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,apiJuice,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Architecto,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ArtCraft,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Aura,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AutoCalls.ai - AI Phone Communications,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,AutoSortPro,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Avec,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Avina,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Awshar AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bean,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bebop.ai,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Bilbo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Birdhouse,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,BloxGPT,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Breadth Edits Beta v1.0,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Briefy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Browserfly,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Call an AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Callin.io,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cardboard,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cencurity,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chamber: Autopilot for AI Infrastructure,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatFolders,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatGPT-4 for Google Sheets,0.4324,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatGPT AI Product Finder,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatPRD,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ChatUML,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Chaturji,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,chatWise,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clawcast,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClawTeams,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clean Inbox for Gmail™,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CleanRoll AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Clemta,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CLI Market — Commerce APIs for AI Agents,0.3256,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ClipVideo.AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,COACH by CareerVillage,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CodeAnt AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,cognee,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cognitora,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,commitify.me,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,ComplyDo,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Conduit.app,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Confi AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Connector,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crazzy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Crosshatch,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,CyberCut AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Cynthia AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dazl,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Deck,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Deckwise,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Deep Work Plan,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Demystifyd,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Denovo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Design Systems repo for the AI Era,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Detectly,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DevPass by LLM Gateway,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Devv.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DexCode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Document Parser by Contextual AI,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,DocuSpark,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Draft'n Run,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dream 7B,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Duck.ai,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Dynbox.app,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Easybilling,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EasyCode,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EasyKOL,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EddyOwl,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Elfsight,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Ellie - Your AI Email Assistant,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EmbedAI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Emily,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Endgame 2.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Enhancor,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,EraseVideo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Erayaha.AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Evolup,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Expertise AI,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,E.Y.E. by Expert Chase,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FableWatch,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fere AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,findcool.tools,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,findloc.ai,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FireTail,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlashDocs API,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Fleso,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FlowTask,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Friday AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,FullReviews,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gamelabs Studio,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GateOS,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GetMimic,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Gistr,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Glazed,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Google Ads MCP Server,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,GPT4oMini.app,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Grass,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,HARPA AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Helsa Health,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Heym,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Heywa,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+startup,Hirecarta,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pushary,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Intrascope.app,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ProblemHunt,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MindPal,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Poke.com,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TwelveLabs,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ovren,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Github Copilot,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,KAYAK,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CoSupport AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Inrō,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flexprice,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pilot,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Amarsia,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Brew,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agentmemory,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Free AI Video Editor OpenCutAI,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Grok AI assistant,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Querri,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Manna,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NudgeFile,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Okibi,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Meku,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Leni,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chronicle,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ResumeUp.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Glam AI,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TypingMind - Chat UI for LLMs,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ExploreYC,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Slashit App,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Noodle Seed,0.5833,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Unabyss,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Descript,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Documentation.AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Layercode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Littlebird,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,rolyai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clueso,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Extella AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Figma,1.0,matched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gitmore,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Oxlo.ai,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Buddy AI Note,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,1x,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Command AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Invoke,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Branda,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Daily.co,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Den,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Wobo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClawTick,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dia Browser,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Simplora,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tamadoggo,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Athena,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Naoma AI Demo Agent,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OpenClaw,0.7143,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Polyvia,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Radiq,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flare,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Jentic Mini,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mindly,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SigmaMind AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clawdi,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pixero AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,QA.tech,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tooling Studio,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dropstone,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hex,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lumo Studios,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,rabbit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Secret Sauce 3D,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sora by OpenAI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Databox,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Draft,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Memoket Gem,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Stripe,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kimi AI - Now with K2.6,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kipps AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Marx Finance,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Portt,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PromptPerf,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SuperPowers AI,0.5217,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cal.com,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dodo Payments,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Invoko,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Limitless,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SureThing.io,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aqua Voice,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClawSecure,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lingo.dev,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AIxBlock,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Causo,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Creatium,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dimension,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Neon,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Octomind,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pretty Prompt,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tinkerer Club,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ApertureDB,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CreateOS,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Foyer,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Inspector,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Integral,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Jootle,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Springfield Oracle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Augment Code,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Draftwise Playbook Studio,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Markopolo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SimCam,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tana,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Y Bombinator,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aiarty Video Enhancer,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DubStream by CAMB.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Enjo Help Center,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Finden,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flowstep,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Groq Chat,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Jesse,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LangChain,1.0,matched,https://webclaw.io/data/startups/ai/llms.txt
+product,Needle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,R0Y,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Toyo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,zero.xyz,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BlogBowl,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClawOffice,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gemini Export Studio,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Middleware,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mozart AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AEVS,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ancher,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Carousels Generator,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CourseCorrect,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FollowUp by AssetMule,0.32,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ghost,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Haimeta,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mnexium AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Qudemo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Telescope,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tessl,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Trace,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,YouArt,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Amplitude,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AudioJot,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Badge,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Boost.space,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Buildrs,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Friend,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Giselle,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kanbanq,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MCPCore,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Optibot,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Plurai,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Polyglotta,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Snippets AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Text2Note,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Wowable,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Airtop,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Coursekit,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Devaito,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FunBlocks AI Markdown Editor,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Goldfish,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Juno,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mastra,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,prjct/cli,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Apple,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ASI:One,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bolto,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Claro - Research Agents,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clico,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Coworker AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DeepTagger,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dog-e-dex,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Growati,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OpenBox,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pally - AI Relationship Management,0.3243,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Vokal,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Asteroid,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crisp,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DecisionBox,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Joanium,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lovon AI therapy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MemeMorph,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MGX (Now Atoms),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mocko,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MorphMind: A Steerable AI Platform,0.4737,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Nily AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Onyx,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Receiptor AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sparks AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Spine,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Upstream,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Acti,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgentDiscuss,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Asklet,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Basalt,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Calk AI,0.7692,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Expo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flixier,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flowtica Scribe,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fred,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Frontdesk AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GitArsenal,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PixelDance & Seaweed,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Side Space,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SNEWPapers,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Superapp,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,sync-3,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Uplodio,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ZooClaw,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aident AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Alpie Core,0.7059,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Antispace 2.0,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BrandingStudio.ai,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clarity,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Co-Desk,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,detectly,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DocsOrb: AI Policy Management & more,0.3684,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Equip AI Interview,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,First Answer,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LM Studio,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,maia.is your AI that gets things done,0.35,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MCP360,0.2667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pendium,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Slicker,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SlimSnap,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Stride,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Synthetiq,0.7778,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI App Generator,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ansvisor,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Async,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Blimp,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Buffer API,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeBanana,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeHealth MCP Server by CodeScene,0.3684,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ConnectMachine,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crono,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Drift,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FireCut AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FuseAI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gigacatalyst,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Glaze by Raycast,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Google Antigravity,0.5185,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Grok.com (Beta),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HeyNews,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kodo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lemni,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lindy,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Loki.Build,0.3158,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Omma,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PicWish,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rewrait,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TruGen AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgentReady,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Airtrain.ai LLM Playground,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Audino AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatGPT Operator,0.5385,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Collective OS,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cora,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Deploy Hermes,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DocumentLens,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Draw A Fish,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gumloop,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lucent Chat,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MoDev,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NeoAgent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,panda{·}etl (YC W24),0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PangeAI,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Personal Assistant by HyperWrite,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rankfender,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Reducto Studio,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Shram,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Studio – Your AI Media Copilot,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,agentcad,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agentplace,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bench for Claude Code,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chikka.ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cove,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dex by Thirdlayer,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dhisana AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,dr.aft,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DunSocial,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Enshittifier,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mukh.1,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,n8nChat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pentest Copilot by BugBase,0.4118,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Polarity,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,QApilot,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Scribe,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Snaply,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tencent EdgeOne,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Adject,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Atyla,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BAND,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Brand Stori,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Buda,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chatoshi AI Copilot,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Claude Code auto-fix,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clientell AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CoPilot.Live,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CrewAI AMP - Agent Management Platform,0.2927,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CRUDERRA,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Designer Clone AI,0.6087,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fieldy,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fire Your QA Today,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlexClip,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Folio,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GradPipe,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LifeOS,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NoteGPT,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Onboarding0,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OpenAdapter,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Orchestria,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pixel,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PromptChainer,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Recap,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Revv Invest,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ScreenGeany AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Silvia,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SparrowDesk,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SuperIntern: Botless Live Meeting Agent,0.3256,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,The ∞ Bar,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agenta,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Tools Directory - by Whalesync,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AnimeShorts,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AnythingLLM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Askiva AI,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Astrio,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Attrove AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BoldDesk,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Botme.io,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Citable,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Coddo,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeWords,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Create,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Doraverse,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dreamina,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Elvin,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Figy.ai,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gabriel AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,git-lrc,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Glasp AI Clone: Learning Memory,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GoClaw,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HeyTraders,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,iMemo,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Inferless,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kalycs,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lebesgue: AI CMO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Loomal,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Miora,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NTRVSTA,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Omnara,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Papermark,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PingPrompt,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Promptius AI,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Protoclone,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,QuickCompare by Trismik,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Replicas,0.8235,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sellible,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Skybridge,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SOLAYA,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sup AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TapScanner,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Text2Query,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Therapist AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Toone,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Trivia by Typito AI,0.5185,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Veltrix AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,WhatsDiff,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Atech,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Baton,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BeHooked,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BlogSEO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bolna,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BUNDL AI Prompts & Workflows Directory,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CalPal,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cartesia Sonic,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatRealtor,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clema,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cloudy,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CoAgentor,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ColorPenguin,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CuriosityXR,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,discli,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Donna AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Doodles Ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Effects SDK,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FLORA,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flow AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Flowly,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Freu AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Genpire,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Happenstance,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hopper,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ittybit,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Janus,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Katalyst,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Layrr,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lemon Slice,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Libertify.com,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LIVE: wtf are agents buying?,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ManyPI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Maximem Vity for OpenClaw,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Murror,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MyClone,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Notchup,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NovaVoice,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Nugget AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,@O - AI coworker in Slack,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Olovka,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PolitePost.net,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ProfileSpider,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Scribble Network,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Seekeasy MCP,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Subterranean,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TimedSubs,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Zaro,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Zo Computer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Zoo Design Studio v1.0,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ada.im,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agen,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aider,0.7273,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Reverse Image Search,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Alkemi,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,All Voice Lab,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Avo - AI Voice Alarm,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,B2Metric,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BrowserBook,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BuildKit 2.0,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bytebot,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chinilla,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ciaro Pro,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cleo,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeYam CLI & Memory,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Context Mode Insight,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CrabTalk,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cranston AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DCP,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DronaHQ,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Exponent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FastMCP 3.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FeatDrop,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fluent,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fonic,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Genbler,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hannah & Co,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HeyGen x Hubspot Integration,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HireHunch,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hot100.ai,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hyta,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kaily,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Magine,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MakersClaw,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MentionDrop,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MiniMax,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Naptick AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NeuroBlock,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Normain,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Notion Site,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ollie,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pastey Extension,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PingPolls,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pioneer,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PlugThis,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Quash,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,QuickAgent,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RADiCAL,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RealRoots,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rectify,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Scrapeless,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SDRx,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Second Brain,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,sleek.design,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SourcePilot,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Templify,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TestRelic AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Thunai,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Thunderbit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Toolstash,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TrendWidget,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Visdiff,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Yolk,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,10X PPC,0.2857,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Accorata,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agent Arena,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agentation,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agent FM for Claude Code & Codex,0.3429,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Andsend,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,aperture,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AppWizzy,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Arcitext.com,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Astra,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Atlantix,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AutoForm,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Autonoma.pro,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Axol,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bing Video Creator,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Blooper,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CapWords,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cascadeur,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CatchAll by NewsCatcher,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Church Loom,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cignara,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Claude Code Scheduled Tasks,0.4375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clawther,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeMote,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cols.ai,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Commerce Pro by CapCut,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Compendium,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Context Link,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crumb - Fridge and Pantry Recipes,0.303,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dify.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DIKTATORIAL Suite,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dirac,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,display.dev,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DreamFlow,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DreamRP,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,eapy,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Edgee,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ezine,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlowLens,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Forsy,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fullpack,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gaia,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gazel,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gemini 3.1 Flash-Lite,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Genie AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GetMax,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GHOSTYPE,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Graphis,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HanaVerse,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,"Harmonian AI | Your Mind, All in One.",0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HostedClaws,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HumanLayer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Juice,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kaomoji Drawer,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lium AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lovaround,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MarketRecon,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MarsCode,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Missio,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ModuleX,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Nashra,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NeuralAgent,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NeuraVid,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Notebook AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Polsia,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PRDKit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pulze,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rainfrog,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rask AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ReachLLM,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Reindeer,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ripplica,0.7059,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Rowboat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SaaS Library —Empower Your Journey,0.4103,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Samepage Signals,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ScaryStories Live,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Secret Scan-ta,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Segmind,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sheet0,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Socrati,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sound Effects AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,The Drive AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tyto by ai-coustics,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,v0 by Vercel,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,wrapped.dev,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,16x Prompt,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Adapt,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AdGen AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agent Bar,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgentBrush,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgentQL,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agents Base,0.6087,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Airbyte Agents,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aiswers.com,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AIThumbnail.so,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Visual Reasoning by Chance,0.4118,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Amsflow,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,App Mint AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Architect by Lyzr,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Artefact,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Atwork,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AutoRepurpose,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Avatars by Studio Neiro AI,0.4242,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Backgrind,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Basedash: AI data analyst,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BeFreed,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bith.AI [Ghost],0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Brila,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatGPT Images 2.0,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chat With Your Database,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Claude Code Voice Mode,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,claw.fm,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeRide (Beta),0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Concipe,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Confident AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Container Diet,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ContentPie,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Coval,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crew44,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Deforge,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Depth,0.8,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dokko,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,doXmind,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dream Machine AI Online,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,drippi,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ekamoira GSC MCP,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Entre,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Everlyn AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Everywhere,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,exa.ai,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Exifa.net,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FCZP:Fully customised zenerative podcast,0.3043,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Feedback Wizard AI,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Findaway Voices by Spotify,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlightGlitch,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlutterAIDev,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Frame,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Free Access To 9000+ AI Tools Database,0.3415,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Friendware,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FullContext,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GaliChat,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GamerForge,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gas City 1.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Generatech AI,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Geniai Assist,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GladeKit,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,gptengineer.app,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Granite,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Grindery Web3 Gateway for Zapier,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hapax,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Henji,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Heuris,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HoloTutor by VictoryXR,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HTML Pub,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,illumi,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,InstaVM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Internet.io,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,IP Portal,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Juno,0.75,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kite,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kyutai TTS,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lets Finally Meet!,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Lightscreen AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LLMTest,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LongCat,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Looria,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Luzo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MailAdept by mailwarm,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Meet Warren,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Meto,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Metoro,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mindstone Rebel,0.5217,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mira,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MODIF - AI Contents Platform,0.3571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Monica,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MusicLM by Google,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,myndless.ai,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Neurcode AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NewsBang,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Noteweave,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Notion 3.4,0.8571,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ocean,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OCR Arena,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OpenAI in HubSpot CRM,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,OptimizeGEO.ai,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Packmind Open Source,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pangea,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pi Coding Agent,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Platus (YC F24),0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PMB,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Powder,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Praise Jar,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Preloop,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Prometora,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PromptOT,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Propane,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Property Alpha,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,remio - Your Personal ChatGPT,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RockPic,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RunInfra,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Say It So - Better Feedback For GDocs,0.359,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,SciMaster,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Scoutflo,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sider: AI Research Agent & Extension,0.359,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Siit,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Stammer.ai,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Supavoice,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Superjoin,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Text2Infographic,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,The 2025 state of AI Development,0.3415,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,The Influencer AI,0.48,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Thinglo,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tolan,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,TryCase,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,uLuup,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Unwrapped,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Virtuall.PRO,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,VisualGPT,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,VTT for Mac,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Watchman AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Yescribe.ai,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aden,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AGIRAILS,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AIClipGen,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,aiCode.fail,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Eraser - Redact data from CHATGPT,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Patient Intake,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Renamer,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Santa Claus,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Shorts Pro,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Skills Manager,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Test Engineer by BlinqIO,0.3226,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Thing,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ALTAR,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Amigo AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Animanic,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Anvil,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AppForceStudio,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Appoval,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ArTok,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AskYourPdf,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AudienceCue,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Auriko,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Auvylo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ava 2.0,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bagel,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Balance,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BashBuddy,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BayesLab,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bito,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bleep That Sh*t!,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bluerails Discovery,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BobCA,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bouquin & Ink,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Buildpad,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Candlestick AI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cardamom,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chapple,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clarisign,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClawMetry,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clide,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CoChat,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Codebuff,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Coderrr,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Colloqio,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Colossal,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Constellation Gate AI,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Convo,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cooked.wiki,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Copy.ai,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CosmicUp,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CronBox,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CtrlOps,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cypher Scribe,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DataGrout,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DeepLiveCam,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Design Agent by Lokuma,0.3704,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dictura,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dippy Widget - AI Character Chat,0.5405,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dirac,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Docfarm,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Drafted,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dual Shades,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dump Memory,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EchoFlow,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Emploio,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Espa,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fenn,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Final Round AI,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fliki AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Foretoken AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fume,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gemini Sidepanel,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Generated Assets,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gepchat,0.625,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GhostSnap,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GitHits beta 0.9,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GitSummarize,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Glue,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GradeWiz,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Grapevine,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Handoff AI,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hermit,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hero,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hiperyon,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HirePilot,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HuHu AI,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hunyuan-GameCraft,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HyperDash,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hyperterse,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Imagine,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Indigo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Infrabase,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,JustPaid,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Kazu Navi (かずナビ),0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Khorus,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LIAM,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LikeTony.ai,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LLM Stats,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,LogoFast,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Loopin,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Makko AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MCP Playground,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Memno,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MeshPilot,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,MindReader v1,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mindspase,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,moar,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Mochii,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Morning Commute,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,n8nCoder,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Nansen AI,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Nektar,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NervePay,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NexaSDK for Mobile,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NexTalk,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,NextPhone,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,nKS - nOps Karpenter Solution,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ocode.dev,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Odin AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Openkoda,0.7143,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PaddleBoat,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PaneFlow,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Parseflow.io,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Paybond,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pebbles Ai,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PerformaMeter,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Phonely,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Phygital+,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,PicLooks Avatars,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pipali,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Poised Cupid Edition,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Primer,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pygma,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Pylar,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Quartz,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RecordMeeting,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Relay,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ReplyMind,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RetroTerminal,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Reviewradar,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,RevoClaw,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Roast My Chat,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sakura,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Saturn,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Seer Platform,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Shepherd,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Sipcode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Skarbe,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Skillkit,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Slashspace AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Socra,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Starchild-1 by Odyssey,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Stetos.co,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Surmount AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Synapis,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Talk To Your Computer,0.4138,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Textio,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Tila AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Timbal AI,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,touch grass,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ubie AI Symptom Checker,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,UI Bakery,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,UIQuill,0.3077,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,V2Fun,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,VisibAI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Vocao.ai — AI language tutor,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,YourMemory,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,1000+ Viral AI Art Examples,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,1Code,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,21st Fund,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,2dto3D,0.3636,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,3D Viewer for Google Drive,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,A2A Protocol,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Advent of No-Code,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agent Card,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgenticQA,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agentipedia,0.5882,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AgentOS,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Agentset,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,agumbe.dev,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Bulk Analysis,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Color Match,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI image extender,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Jingle Maker,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AI Lawyer,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Airbrush Studio,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AIRI,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AIRS ML,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Airweave,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AISA AI Skills Test,0.32,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,alphaAI Capital,0.4348,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Andi,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Antimetal,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,apiJuice,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Architecto,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ArtCraft,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Aura,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AutoCalls.ai - AI Phone Communications,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,AutoSortPro,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Avec,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Avina,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Awshar AI,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bean,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bebop.ai,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Bilbo,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Birdhouse,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,BloxGPT,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Breadth Edits Beta v1.0,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Briefy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Browserfly,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Call an AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Callin.io,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cardboard,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cencurity,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chamber: Autopilot for AI Infrastructure,0.3478,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatFolders,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatGPT-4 for Google Sheets,0.4324,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatGPT AI Product Finder,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatPRD,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ChatUML,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Chaturji,0.6316,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,chatWise,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clawcast,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClawTeams,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clean Inbox for Gmail™,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CleanRoll AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Clemta,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CLI Market — Commerce APIs for AI Agents,0.3256,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ClipVideo.AI,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,COACH by CareerVillage,0.3871,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CodeAnt AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,cognee,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cognitora,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,commitify.me,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,ComplyDo,0.3529,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Conduit.app,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Confi AI,0.6154,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Connector,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crazzy,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Crosshatch,0.5263,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,CyberCut AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Cynthia AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dazl,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Deck,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Deckwise,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Deep Work Plan,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Demystifyd,0.4211,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Denovo,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Design Systems repo for the AI Era,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Detectly,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DevPass by LLM Gateway,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Devv.AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DexCode,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Document Parser by Contextual AI,0.3784,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,DocuSpark,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Draft'n Run,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dream 7B,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Duck.ai,0.4615,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Dynbox.app,0.3333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Easybilling,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EasyCode,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EasyKOL,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EddyOwl,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Elfsight,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Ellie - Your AI Email Assistant,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EmbedAI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Emily,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Endgame 2.0,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Enhancor,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,EraseVideo,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Erayaha.AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Evolup,0.375,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Expertise AI,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,E.Y.E. by Expert Chase,0.4167,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FableWatch,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fere AI,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,findcool.tools,0.381,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,findloc.ai,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FireTail,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlashDocs API,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Fleso,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FlowTask,0.4706,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Friday AI,0.5333,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,FullReviews,0.4762,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gamelabs Studio,0.4545,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GateOS,0.4286,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GetMimic,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Gistr,0.5714,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Glazed,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Google Ads MCP Server,0.5,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,GPT4oMini.app,0.3846,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Grass,0.4444,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,HARPA AI,0.6667,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Helsa Health,0.4,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Heym,0.6,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Heywa,0.5455,unmatched,https://webclaw.io/data/startups/ai/llms.txt
+product,Hirecarta,0.5556,unmatched,https://webclaw.io/data/startups/ai/llms.txt
