@@ -159,3 +159,9 @@ def handler(request):
         "headers": {"Content-Type": "text/plain; charset=utf-8"},
         "body": "Method not allowed",
     }
+
+
+# Vercel Python runtime compatibility: expose both 'handler' and 'app' at
+# module level so the runtime can detect a valid entry point regardless of
+# which detection path it uses.
+app = handler
