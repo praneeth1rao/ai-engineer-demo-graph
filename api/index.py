@@ -161,7 +161,18 @@ def handler(request):
     }
 
 
-# Vercel Python runtime compatibility: expose both 'handler' and 'app' at
-# module level so the runtime can detect a valid entry point regardless of
-# which detection path it uses.
-app = handler
+# Vercel Python runtime supports two calling conventions:
+#   1. Serverless function: handler(request) -> {statusCode, headers, body}
+#   2. WSGI application: app(environ, start_response) -> iterable of bytes
+#
+# Provide both so the runtime can detect a valid entry point regardless of
+# which convention it uses.
+#
+
+def app(environ, start_response):
+    """WSGI application entry point for Vercel Python runtime."""
+    status = "200 OK"
+    headers = [("Content-Type", "text/html; charset=utf-8")]
+    start_response(status, headers)
+    body = build_html()
+    return [body.encode("utf-8")]
